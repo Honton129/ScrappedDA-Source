@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Fight-Or-Flight", "pico", [148, 22, 83]],
+		["Showdown", "pico-2", [148, 22, 83]],
+		["Fallen-Soldier", "pico-3", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "philly",
+
+	"storyName": "Join the Darkness.",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+    "difficulties": "hard",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

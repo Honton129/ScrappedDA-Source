@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Matricidal", "mom", [148, 22, 83]],
+		["Blue-Moon", "mom", [148, 22, 83]],
+		["Test", "bf", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "limo",
+
+	"storyName": "Schizophrenia Episode.",
+	"weekBefore": "week3",
+	"weekName": "Week 4",
+	"startUnlocked": true,
+        "difficulties": "hard",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Fading-To-Black", "spooky3", [165, 0, 77]],
+		["Chiller-Remix", "spooky3", [165, 0, 77]],
+		["Sal-De-Mi-Casa", "bf", [165, 0, 77]],
+		["Fat-B1tch", "cartman", [165, 0, 77]],
+		["Remix-10-DS", "bf", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "ffff",
+
+	"storyName": "AAAAA",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+        "difficulties": "hard",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Corrupt-Spookeez", "spooky", [148, 22, 83]],
+		["Corrupt-South", "spooky2", [148, 22, 83]],
+		["Chiller", "spooky3", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "The Last Spooky Month.",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+    "difficulties": "hard",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

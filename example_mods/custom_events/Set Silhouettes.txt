@@ -1,0 +1,8 @@
+This event enables Silhouettes of the characters and adds a white bg behind them
+like is seen on the "Bad Apple!" video
+
+Value 1: use 'a' to make the BG white and characters black, use 'b' to undo it.
+Value 2: Silhouettes Fade In/Out Time. ("0" doesn't work, use 0.01 instead!)
+
+Script by Saltyboii#2461
+Modified by Honton129 (honton129)

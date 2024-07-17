@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="el_mathx.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mathx idle0000" x="0" y="0" width="351" height="402" frameX="0" frameY="-4" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0001" x="0" y="0" width="351" height="402" frameX="0" frameY="-4" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0002" x="351" y="0" width="349" height="403" frameX="-1" frameY="-3" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0003" x="351" y="0" width="349" height="403" frameX="-1" frameY="-3" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0004" x="0" y="403" width="340" height="406" frameX="-5" frameY="0" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0005" x="0" y="403" width="340" height="406" frameX="-5" frameY="0" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0006" x="340" y="403" width="338" height="406" frameX="-6" frameY="0" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0007" x="340" y="403" width="338" height="406" frameX="-6" frameY="0" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0008" x="340" y="403" width="338" height="406" frameX="-6" frameY="0" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0009" x="340" y="403" width="338" height="406" frameX="-6" frameY="0" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0010" x="340" y="403" width="338" height="406" frameX="-6" frameY="0" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0011" x="340" y="403" width="338" height="406" frameX="-6" frameY="0" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0012" x="340" y="403" width="338" height="406" frameX="-6" frameY="0" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0013" x="340" y="403" width="338" height="406" frameX="-6" frameY="0" frameWidth="351" frameHeight="406"/>
+	<SubTexture name="mathx idle0014" x="340" y="403" width="338" height="406" frameX="-6" frameY="0" frameWidth="351" frameHeight="406"/>
+</TextureAtlas>

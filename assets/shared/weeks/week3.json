@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Deception", "senpai", [148, 22, 83]],
+		["Test", "senpai", [148, 22, 83]],
+		["Test", "senpai", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "school",
+
+	"storyName": "Hindrance in the way.",
+	"weekBefore": "week2",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+    "difficulties": "hard",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
